@@ -7,7 +7,7 @@ scoped profile, fill in-person visit forms, and check people in.
 
 Mozaic does **not** decide eligibility. Only a study's investigators can do that.
 
-**[Watch the 3-minute demo](https://youtu.be/mqtkLYHioBQ)** · **[Try the live app](https://hackmit-production-bf7d.up.railway.app/login)** · MIT licensed
+**[Watch the 3-minute demo](https://www.youtube.com/watch?v=kLpP_dZZ1W0)** · **[Try the live app](https://hackmit-production-bf7d.up.railway.app/login)** · MIT licensed
 
 ---
 
